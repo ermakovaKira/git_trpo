@@ -125,3 +125,6 @@ li{
     color: #800000;
     font-style: italic;
 }
+   h1 {
+       text-transform: uppercase;
+   }
